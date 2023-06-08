@@ -158,8 +158,8 @@ Esta const deve armazenar um objeto com as seguintes propriedades:
 - episodios, sendo o valor do tipo number
 - emissora, sendo o valor do tipo string
 
-Os valores das propriedades acima ficam ao seu critério. Use uma série que 
-você curta =)
+Os valores das propriedades acima ficam ao seu critério. Use uma 
+série que você curta =)
 */
 
 
@@ -167,7 +167,8 @@ você curta =)
 /*
 12
 
-Obtenha o valor de cada propriedade do objeto "serie" e exiba-o no console.
+Obtenha o valor de cada propriedade do objeto "serie" e exiba-o 
+no console.
 */
 
 
