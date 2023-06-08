@@ -136,3 +136,46 @@ para gerar o valor da constante "sigla".
 */
 
 const curso = 'Curso de JavaScript Roger Melo'
+
+/*
+10
+
+Conserte o que está errado na string abaixo.
+*/
+
+const likes = 197
+const mensagem = 'Sua foto recebeu ${likes} likes'
+
+/*
+11
+
+Crie uma const "serie".
+
+Esta const deve armazenar um objeto com as seguintes propriedades:
+
+- nome, sendo o valor do tipo string
+- temporadas, sendo o valor do tipo number
+- episodios, sendo o valor do tipo number
+- emissora, sendo o valor do tipo string
+
+Os valores das propriedades acima ficam ao seu critério. Use uma série que 
+você curta =)
+*/
+
+
+
+/*
+12
+
+Obtenha o valor de cada propriedade do objeto "serie" e exiba-o no console.
+*/
+
+
+
+/*
+13
+
+Sobrescreva o valor de cada propriedade do objeto.
+
+Após sobrescrever, exiba o novo valor de cada uma no console.
+*/
