@@ -3,6 +3,10 @@ Durante a resolução desta bateria de exercícios você verá erros
 no console do navegador. 
 
 Fazer os erros desaparecerem é parte da resolução dos exercícios. 
+
+Importante: ainda que haja um erro no console do navegador, você pode escrever e executar seu código normalmente antes da linha do erro. 
+
+Exemplo: se a mensagem do erro no console diz que o erro está na linha 81, você pode ir resolvendo os exercícios e escrever seu código acima da linha 81 normalmente, ok? =)
 */
 
 /*
