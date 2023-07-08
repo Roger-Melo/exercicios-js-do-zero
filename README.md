@@ -2,7 +2,13 @@
   Exercícios do Curso JS do Zero
 </h1>
 
-<h6 align="center">Um curso para quem quer aprender JavaScript do zero. As lives acontecem de segunda à quinta, das 9:15 às 10:15h (horário de Brasília)! Compareça para tirar dúvidas ao vivo =D</h6>
+<h6 align="center">🟢 Não é necessário ter conhecimentos de JavaScript, HTML, CSS ou Git/GitHub para fazer o curso. 
+  
+  É um curso para quem realmente está no zero e quer aprender JavaScript.</h6>
+
+<h6 align="center">O objetivo deste curso é te preparar para a Semana do JavaScript.<h6>
+
+<h6 align="center">As aulas acontecem ao vivo, de segunda à quinta, às 9:15h (horário de Brasília)! Compareça para tirar suas dúvidas ao vivo =D<h6>
 </br>
 
 [![Curso JavaScript do Zero](assets/img/banner-javascript-do-zero.jpg)](https://youtube.com/playlist?list=PLpSJMw6H4PFPTcO3pXPi6GBLcX5_8cFJY)
