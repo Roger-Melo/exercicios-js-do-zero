@@ -2,7 +2,7 @@
   Exercícios do Curso JS do Zero
 </h1>
 
-<h6 align="center">🟢 Não é necessário ter conhecimentos de JavaScript, HTML, CSS ou Git/GitHub para fazer o curso. 
+<h6 align="center">🟢 Não é necessário ter conhecimentos de JavaScript, HTML, CSS, Git/GitHub ou Lógica de Programação para fazer o curso. 
   
   É um curso para quem realmente está no zero e quer aprender JavaScript.</h6>
 
